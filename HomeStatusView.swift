@@ -11,8 +11,8 @@ import SwiftUI
 // MARK: - Models
 
 struct FavoriteAction: Identifiable {
-    let id = UUID()
-    let title: String
+   // let id = UUID()
+    //let title: String
     let subtitle: String
     let icon: String
     let iconColor: Color
